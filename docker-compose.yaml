@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  reverse-proxy:
+    image: traefik:v3.1
+    command:
+      - "--providers.docker"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entryPoints.websecure.address=:443"
+      - "--certificatesresolvers.myresolver.acme.tlschallenge=true"
+      - "--certificatesresolvers.myresolver.acme.email=elliott@zenful.cloud"
+      - "--certificatesresolvers.myresolver.acme.storage=/letsencrypt/acme.json"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.web.http.redirections.entrypoint.to=websecure"
+      - "--entrypoints.web.http.redirections.entrypoint.scheme=https"
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    volumes:
+      - letsencrypt:/letsencrypt
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  stalwart-mail:
+    image: stalwartlabs/mail-server:latest
+    container_name: stalwart-mail
+    hostname: mail.bifrostsolution.com
+    restart: unless-stopped
+    networks:
+      - mailnet
+    # ports:
+    #   - "25:25"      # SMTP
+    #   - "587:587"    # SMTP Submission
+    #   - "465:465"    # SMTPS
+    #   - "110:110"    # POP3
+    #   - "995:995"    # POP3S
+    #   - "143:143"    # IMAP
+    #   - "993:993"    # IMAPS
+    #   - "4190:4190"  # Sieve
+    #   - "8080:8080"  # Web UI (se disponibile)
+    #   - "443:443"    # HTTPS (se disponibile)
+    volumes:
+      - ./stalwart-mail:/opt/stalwart-mail
+
+networks:
+  mailnet:
+    driver: bridge

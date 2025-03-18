@@ -1,0 +1,60 @@
+2025-03-18T00:02:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 33245, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:02:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 33245, accountName = "mdimattia", accountId = 49
+2025-03-18T00:06:18Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 17488, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:06:18Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 17488, accountName = "mdimattia", accountId = 49
+2025-03-18T00:12:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 46159, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:12:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 46159, accountName = "mdimattia", accountId = 49
+2025-03-18T00:14:55Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 33279, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:14:55Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 33279, accountName = "mdimattia", accountId = 49
+2025-03-18T00:22:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 27345, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:22:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 27345, accountName = "mdimattia", accountId = 49
+2025-03-18T00:27:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 16126, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:27:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 16126, accountName = "mdimattia", accountId = 49
+2025-03-18T00:30:20Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 60541, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:30:20Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 60541, accountName = "mdimattia", accountId = 49
+2025-03-18T00:37:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 57127, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:37:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 57127, accountName = "mdimattia", accountId = 49
+2025-03-18T00:42:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 64325, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:42:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 64325, accountName = "mdimattia", accountId = 49
+2025-03-18T00:46:15Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 31762, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:46:15Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 31762, accountName = "mdimattia", accountId = 49
+2025-03-18T00:52:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 49298, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:52:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 49298, accountName = "mdimattia", accountId = 49
+2025-03-18T00:57:13Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 31312, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T00:57:13Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 31312, accountName = "mdimattia", accountId = 49
+2025-03-18T01:00:46Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 45709, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T01:00:46Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 45709, accountName = "mdimattia", accountId = 49
+2025-03-18T01:01:18Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 47044, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T01:01:18Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 47044, accountName = "mdimattia", accountId = 49
+2025-03-18T01:02:28Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 27202, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T01:02:28Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 27202, accountName = "mdimattia", accountId = 49
+2025-03-18T01:03:48Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 18523, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T01:03:48Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 18523, accountName = "mdimattia", accountId = 49
+2025-03-18T01:04:50Z INFO TLS handshake (tls.handshake) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 45290, listenerId = "imap", version = "TLSv1_2", details = "TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384"
+2025-03-18T01:04:50Z INFO Authentication successful (auth.success) listenerId = "imap", localPort = 143, remoteIp = 192.168.127.1, remotePort = 45290, accountName = "mdimattia", accountId = 49
+2025-03-18T07:46:12Z INFO Shutting down Stalwart Mail Server v0.11.5 (server.shutdown) causedBy = SIGTERM
+2025-03-18T07:46:12Z INFO Network listener stopped (network.listen-stop) listenerId = "pop3s", localIp = ::, tls = true, localPort = 995
+2025-03-18T07:47:05Z INFO Starting Stalwart Mail Server v0.11.5 (server.startup) version = 0.11.5
+2025-03-18T07:47:05Z INFO Webadmin resource unpacked (resource.webadmin-unpacked) path = "/tmp/STALWART_WEBADMIN"
+2025-03-18T07:47:05Z INFO Housekeeper process started (housekeeper.start) 
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "http", localIp = ::, localPort = 8080, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "https", localIp = ::, localPort = 443, tls = true
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "imap", localIp = ::, localPort = 143, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "imaptls", localIp = ::, localPort = 993, tls = true
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "pop3", localIp = ::, localPort = 110, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "pop3s", localIp = ::, localPort = 995, tls = true
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "sieve", localIp = ::, localPort = 4190, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "smtp", localIp = ::, localPort = 25, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "submission", localIp = ::, localPort = 587, tls = false
+2025-03-18T07:47:05Z INFO Network listener started (network.listen-start) listenerId = "submissions", localIp = ::, localPort = 465, tls = true
+2025-03-18T07:47:05Z INFO Processing ACME certificate (acme.process-cert) id = "lets", hostname = ["mail.bifrostsolution.com"], validFrom = 2025-03-17T18:38:19Z, validTo = 2025-06-15T18:38:18Z, due = 2025-05-16T18:38:18Z
+2025-03-18T07:47:09Z INFO Downloading external resource (resource.download-external) details = Downloaded ASN/Geo data, url = "https://cdn.jsdelivr.net/npm/@ip-location-db/asn/asn-ipv4.csv", elapsed = 4039ms
+2025-03-18T07:47:10Z INFO Downloading external resource (resource.download-external) details = Downloaded ASN/Geo data, url = "https://cdn.jsdelivr.net/npm/@ip-location-db/asn/asn-ipv6.csv", elapsed = 1655ms
+2025-03-18T07:47:12Z INFO Downloading external resource (resource.download-external) details = Downloaded ASN/Geo data, url = "https://cdn.jsdelivr.net/npm/@ip-location-db/geolite2-geo-whois-asn-country/geolite2-geo-whois-asn-country-ipv4.csv", elapsed = 1411ms
+2025-03-18T07:47:13Z INFO Downloading external resource (resource.download-external) details = Downloaded ASN/Geo data, url = "https://cdn.jsdelivr.net/npm/@ip-location-db/geolite2-geo-whois-asn-country/geolite2-geo-whois-asn-country-ipv4.csv", elapsed = 1394ms
+2025-03-18T07:47:30Z INFO Authentication successful (auth.success) listenerId = "http", localPort = 8080, remoteIp = 192.168.127.1, remotePort = 34414, accountName = "admin"
+2025-03-18T07:48:51Z INFO Processing ACME certificate (acme.process-cert) id = "lets", hostname = ["mail.bifrostsolution.com"], validFrom = 2025-03-17T18:38:19Z, validTo = 2025-06-15T18:38:18Z, due = 2025-05-16T18:38:18Z
+2025-03-18T07:50:22Z INFO Processing ACME certificate (acme.process-cert) id = "lets", hostname = ["mail.bifrostsolution.com"], validFrom = 2025-03-17T18:38:19Z, validTo = 2025-06-15T18:38:18Z, due = 2025-05-16T18:38:18Z
+2025-03-18T07:57:53Z INFO SMTP EHLO command (smtp.ehlo) listenerId = "smtp", localPort = 25, remoteIp = 10.89.5.70, remotePort = 42994, domain = "mail.bifrostsolution.com"
+2025-03-18T07:57:53Z INFO SPF EHLO check failed (smtp.spf-ehlo-fail) listenerId = "smtp", localPort = 25, remoteIp = 10.89.5.70, remotePort = 42994, domain = "mail.bifrostsolution.com", result = No SPF record (spf.none), elapsed = 0ms
+2025-03-18T07:57:53Z INFO TLS handshake (tls.handshake) listenerId = "smtp", localPort = 25, remoteIp = 10.89.5.70, remotePort = 42994, listenerId = "smtp", version = "TLSv1_3", details = "TLS13_AES_256_GCM_SHA384"
